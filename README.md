@@ -81,7 +81,7 @@ Generated with `tree` command.
 ![status updates](https://github.com/danielc92/react-crypto-app/blob/master/screenshots/Screen%20Shot%202019-07-29%20at%201.59.49%20pm.jpg)
 
 **coins listing**
-![coins listing](https://github.com/danielc92/react-crypto-app/blob/master/screenshots/Screen%20Shot%202019-07-29%20at%201.59.56%20pm.jpg)
+![coins listing](https://github.com/Shloka369/react-cryptocurrency-app/blob/main/screenshots/Screen%20Shot%202019-07-29%20at%202.00.07%20pm.jpg)
 
 **coin details 1**
 ![coin details](https://github.com/danielc92/react-crypto-app/blob/master/screenshots/Screen%20Shot%202019-07-29%20at%201.59.49%20pm.jpg)
