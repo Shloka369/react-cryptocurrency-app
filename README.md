@@ -90,7 +90,7 @@ Generated with `tree` command.
 ![coin details 2](https://github.com/danielc92/react-crypto-app/blob/master/screenshots/Screen%20Shot%202019-07-29%20at%202.00.04%20pm.jpg)
 
 **coin details 3**
-![coin details 3](https://github.com/danielc92/react-crypto-app/blob/master/screenshots/Screen%20Shot%202019-07-29%20at%202.00.07%20pm.jpg)
+![coin details 3](https://github.com/Shloka369/react-cryptocurrency-app/blob/main/screenshots/WhatsApp%20Image%202025-03-24%20at%2017.35.53_609440b4.jpg)
 
 **event list**
 ![event listing](https://github.com/danielc92/react-crypto-app/blob/master/screenshots/Screen%20Shot%202019-07-29%20at%202.00.16%20pm.jpg)
